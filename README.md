@@ -23,3 +23,23 @@ The **Herba Care Frontend Project** is a simple yet elegant web application desi
 1. Clone the repository:
    ```bash
    git clone https://github.com/JAYANTI-THAKOR-941/Herba-Care-Frontend-Project.git
+
+---
+
+## Herba Care — Frontend Website
+
+Static website prototype styled with CSS.
+
+## Project structure
+
+- `index.html`
+- `css/style.css`
+
+## Getting started
+
+```bash
+git clone https://github.com/JAYANTI-THAKOR-941/Herba-Care-Frontend-Project.git
+cd Herba-Care-Frontend-Project
+```
+
+Open `index.html` in a browser or serve the repository through a local static server.
